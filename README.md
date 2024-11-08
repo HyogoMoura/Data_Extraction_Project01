@@ -71,14 +71,14 @@ Clique sobre o link para instalar cada biblioteca utilizada.
 - [Pandas](https://pypi.org/project/pandas/):
 `import pandas as pd`
 
-- [Numpy](https://numpy.org/)
+- [Numpy](https://numpy.org/):
 `import numpy as np`
 
-- [Selenium](https://www.selenium.dev/documentation/webdriver/)
-`from selenium import webdriver
+- [Selenium](https://www.selenium.dev/documentation/webdriver/):
+`from selenium import webdriver`
 
--[Requests](https://pypi.org/project/requests/)
-`import requests
+-[Requests](https://pypi.org/project/requests/):
+`import requests`
 
 ## 🛠️ Tecnologias Utilizadas
 Python
@@ -91,6 +91,7 @@ Python
 
 - Automacao de coleta d+1
 - Enriquecimento de tabela
+- Colocar selenium para funcionar na cloud
 
 ## Agradecimento
 - Daniel Luz
