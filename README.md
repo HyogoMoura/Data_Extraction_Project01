@@ -75,10 +75,10 @@ Clique sobre o link para instalar cada biblioteca utilizada.
 `import numpy as np`
 
 - [Selenium](https://www.selenium.dev/documentation/webdriver/)
-` from selenium import webdriver
+`from selenium import webdriver
 
 -[Requests](https://pypi.org/project/requests/)
-` import requests
+`import requests
 
 ## 🛠️ Tecnologias Utilizadas
 Python
