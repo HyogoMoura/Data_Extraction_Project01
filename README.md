@@ -1,7 +1,7 @@
 # Desafio_beAnalytic
 Projeto desafio empresa beAnalytic
 
-Desenvolvimento do projeto "Acompanhamento de promocoes Steam" com o intuito de extrair e manipular dados utilizando a biblioteca PANDAS e carregar numa Google sheet.
+Desenvolvimento do projeto "Acompanhamento de promocoes Steam" com o intuito de extrair e manipular dados utilizando a biblioteca PANDAS uma vez que sua eficiencia e suficiente para volume de Dados < 10gb e carregar numa Google sheet.
 
 **Todo projeto foi desenvolvido com a linguagem de programação Python.**
 
