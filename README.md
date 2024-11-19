@@ -96,4 +96,5 @@ Python
 ## Agradecimento
 - Daniel Luz
 - Nara GuimarãesVer
+- Luiz Santana
 
